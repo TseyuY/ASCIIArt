@@ -1,7 +1,7 @@
 import os
 import imageio
 import time
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw
 import shutil
 import random
 
